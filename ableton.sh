@@ -1,0 +1,1 @@
+/Applications/Ableton\ Live\ 9\ Suite.app/Contents/MacOS/Live ; exit;
